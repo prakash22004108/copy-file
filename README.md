@@ -44,6 +44,9 @@ copy(fname,newfile)
 
 ```
 ### OUTPUT:
+Text File "File3.txt":
+![OUTPUT](/W00.png)
+
 New Text File "File4.txt":
 
 ![OUTPUT](/W11.png)
