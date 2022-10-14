@@ -44,7 +44,7 @@ copy(fname,newfile)
 
 ```
 ### OUTPUT:
-New Text File "File3.txt":
+New Text File "File4.txt":
 
 ![OUTPUT](/W11.png)
 
