@@ -49,7 +49,7 @@ New Text File "File3.txt":
 ![OUTPUT](/w1.png)
 
 Output of the code (to receive input):
-![OUTPUT](/W22.png)
+![OUTPUT](/w2.png)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
